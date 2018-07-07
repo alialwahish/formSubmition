@@ -1,0 +1,11 @@
+/home/ali/codingDojo/c#/formValid/bin/Debug/netcoreapp2.0/formValid.deps.json
+/home/ali/codingDojo/c#/formValid/bin/Debug/netcoreapp2.0/formValid.runtimeconfig.json
+/home/ali/codingDojo/c#/formValid/bin/Debug/netcoreapp2.0/formValid.runtimeconfig.dev.json
+/home/ali/codingDojo/c#/formValid/bin/Debug/netcoreapp2.0/formValid.dll
+/home/ali/codingDojo/c#/formValid/bin/Debug/netcoreapp2.0/formValid.pdb
+/home/ali/codingDojo/c#/formValid/obj/Debug/netcoreapp2.0/formValid.csprojResolveAssemblyReference.cache
+/home/ali/codingDojo/c#/formValid/obj/Debug/netcoreapp2.0/formValid.csproj.CoreCompileInputs.cache
+/home/ali/codingDojo/c#/formValid/obj/Debug/netcoreapp2.0/formValid.AssemblyInfoInputs.cache
+/home/ali/codingDojo/c#/formValid/obj/Debug/netcoreapp2.0/formValid.AssemblyInfo.cs
+/home/ali/codingDojo/c#/formValid/obj/Debug/netcoreapp2.0/formValid.dll
+/home/ali/codingDojo/c#/formValid/obj/Debug/netcoreapp2.0/formValid.pdb

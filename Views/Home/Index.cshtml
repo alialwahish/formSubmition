@@ -1,0 +1,33 @@
+﻿@using formValid.Models
+@model User
+
+<form asp-action="create" asp-controller="Home" method="POST">
+<span asp-validation-for="First_Name" > </span>
+<label asp-for="First_Name">First Name:
+    <input asp-for="First_Name">
+<span asp-validation-for="Last_Name" > </span>
+<label asp-for="Last_Name">Last Name:
+    <input asp-for="Last_Name">
+<span asp-validation-for="Age" > </span>
+<label asp-for="Age">Age:
+    <input asp-for="Age">
+
+    <span asp-validation-for="Email" > </span>
+<label asp-for="Email">Email Address:
+    <input asp-for="Email">
+  <span asp-validation-for="Password" > </span>
+<label asp-for="Password">Password:
+    <input asp-for="Password">
+
+
+
+
+
+_   <input value="Add User" type="submit">
+</label></label></label></label></label>
+
+
+
+
+
+</form>
